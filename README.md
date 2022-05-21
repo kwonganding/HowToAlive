@@ -16,9 +16,9 @@
 
 <a name="akxPH"></a>
 # 系列目录
-> - [健康防猝指南1：体重和减肥的秘密？](https://www.yuque.com/kanding/klife/qo3ppb)
-> - [健康防猝指南2：饮食健康](https://www.yuque.com/kanding/klife/pkrmro)
-> - [健康防猝指南3：健康保健](https://www.yuque.com/kanding/klife/ox0u6r)
+> - [健康防猝指南1：体重和减肥的秘密？]([https://www.yuque.com/kanding/klife/qo3ppb](https://github.com/kwonganding/HowToAlive/blob/main/%E5%81%A5%E5%BA%B7%E9%98%B2%E7%8C%9D%E6%8C%87%E5%8D%971%EF%BC%9A%E4%BD%93%E9%87%8D%E5%92%8C%E5%87%8F%E8%82%A5%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9F.md))
+> - [健康防猝指南2：饮食健康]
+> - [健康防猝指南3：健康保健]
 > - 健康防猝指南4：日常医药知识
 > - 健康防猝指南5：运动基础（上）
 > - 健康防猝指南6：运动基础（下）
@@ -26,5 +26,6 @@
 
 
 ---
+原文地址：[语雀](https://www.yuque.com/kanding/klife/qo3ppb)
 
 <a name="TFhgH"></a>
